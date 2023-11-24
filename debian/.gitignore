@@ -1,0 +1,13 @@
+.debhelper/
+debhelper-build-stamp
+files
+gir1.2-adw-1.substvars
+gir1.2-adw-1/
+libadwaita-1-0.debhelper.log
+libadwaita-1-0.substvars
+libadwaita-1-0/
+libadwaita-1-dev.substvars
+libadwaita-1-dev/
+libadwaita-1-examples.substvars
+libadwaita-1-examples/
+tmp/

@@ -1,5 +1,2 @@
 stylesheet-common-Use-disabled-opacity-for-disabled-pictu.patch
 stylesheet-common-Use-opacity-for-all-disabled-gtk-images.patch
-Revert-build-bump-gtk-min-version-to-4.13.4.patch
-Revert-about-dialog-add-zero-clause-bsd-license.patch
-Revert-about-window-add-zero-clause-bsd-license.patch
